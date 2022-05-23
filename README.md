@@ -1,6 +1,6 @@
 ### Hi there 👋, hope you find some value in my work.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingcheng45)](https://github.com/bingcheng45/github-readme-stats)
+[![BingCheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingcheng45)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on Leetcode and Flutter while doing an internship (2022 Summer)
 
