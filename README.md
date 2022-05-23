@@ -6,8 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&layout=compact&hide=Assembly,Objective-C,Makefile&count_private=true)](https://github.com/bingcheng45/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&langs_count=8&hide=Assembly,Objective-C&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **bingcheng45/bingcheng45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
