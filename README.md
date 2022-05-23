@@ -4,9 +4,7 @@
 
 🔭 I’m currently working on Leetcode and Flutter while doing an internship (2022 Summer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&layout=compact)](https://github.com/bingcheng45/github-readme-stats)
 
 <!--
 **bingcheng45/bingcheng45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
