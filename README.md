@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingcheng45)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working on NodeJS, Kattis and React (2021 Summer)
+🔭 I’m currently working on Leetcode and Flutter while doing an internship (2022 Summer)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
