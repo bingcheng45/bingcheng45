@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on Leetcode and Flutter while doing an internship (2022 Summer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&layout=compact&hide=Assembly&count_private=true)](https://github.com/bingcheng45/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&layout=compact&hide=Assembly,Objective-C&count_private=true)](https://github.com/bingcheng45/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&langs_count=8&hide=Assembly,Objective-C&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
