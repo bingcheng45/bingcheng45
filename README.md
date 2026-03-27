@@ -53,9 +53,5 @@ A personal collection of Claude Code skills for AI-assisted workflows and develo
 - TONT: [tont.app](https://tont.app)
 - Memory Chess: [thememorychess.com](https://thememorychess.com)
 
-[![BingCheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingcheng45&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingcheng45&layout=compact&hide=Assembly,Objective-C,Makefile&count_private=true)](https://github.com/bingcheng45/github-readme-stats)
-
 ---
 > Building things by day, testing ideas by night.
